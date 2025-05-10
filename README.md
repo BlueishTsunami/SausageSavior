@@ -1,3 +1,5 @@
+# Sausage Savior
+
 A skeleton of a game i created as part of a game jam. The game jame concept was to create any game involving food. The project uses Unity, most of the code outside of boilerplate and all of the art was created by me. I use Aseprite to create art and animations. While i never completed the game, most of the core mechanics are in place. 
 
 Mechanics: 
