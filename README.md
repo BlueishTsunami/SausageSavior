@@ -2,6 +2,10 @@
 
 A skeleton of a game i created as part of a game jam. The game jame concept was to create any game involving food. The project uses Unity, most of the code outside of boilerplate and all of the art was created by me. I use Aseprite to create art and animations. While i never completed the game, most of the core mechanics are in place. 
 
+Check it out at the github.io deployment, hope you have fun!: 
+
+https://blueishtsunami.github.io/SausageSavior/
+
 Mechanics: 
 - You are a sausage
 - You have to maintain your temperature
@@ -13,6 +17,3 @@ Areas of note:
 -  I created all of the graphics in the game by hand. While they may not look impressive, this is a painstaking effort. Getting the pickups to sync with the character visually was tough at first.
 -  Midway through the project, Unity had some major updates that messed with my project. Hopefully I'll pick it up again oneday. 
 
-Check it out at the github.io deployment, hope you have fun!: 
-
-https://blueishtsunami.github.io/SausageSavior/
