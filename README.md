@@ -14,6 +14,9 @@ Mechanics:
 - You are a sausage
 - You have to maintain your temperature
 - There are pickups that boost you (Mustard, ketchup, bun)
+    - Mustard: Jump Height
+    - Ketchup: Speed
+    - Bun: Heat Insulation
 - (Not Completed) Your ending score for a level will depend on temperature, and how many pickups you have. A perfect score is cooked just right with all of the fixings. 
 
 Areas of note: 
