@@ -14,7 +14,7 @@ Mechanics:
 - You are a sausage
 - You have to maintain your temperature
 - There are pickups that boost you (Mustard, ketchup, bun)
-- (Not Completed) You're ending score for a level will depend on temperature, and how many pickups you have. A perfect score is cooked just right with all of the fixings. 
+- (Not Completed) Your ending score for a level will depend on temperature, and how many pickups you have. A perfect score is cooked just right with all of the fixings. 
 
 Areas of note: 
 - Created a customized character controller for movement. The default boilerplate controllers in unity are not the best, so I needed to create a controller that would allow for better platforming controls. Things to keep in mind are precision, momentum, and general feel for the player.
